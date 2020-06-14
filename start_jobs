@@ -1,0 +1,2 @@
+# Rodas os jobs
+bundle exec sidekiq -q emails
